@@ -1,5 +1,6 @@
 body {
     display:grid;
+    position: absolute;
     place-items: center;
     /* background-color: #e4f5ff; */
     font-family: 'Montserrat', sans-serif;
